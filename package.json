@@ -1,0 +1,24 @@
+{
+  "name": "d3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noworg/d3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noworg/d3/issues"
+  },
+  "homepage": "https://github.com/noworg/d3#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "d3":"4.2.2"
+  }
+}
